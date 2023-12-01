@@ -1,4 +1,4 @@
-# CAU-Planet : 중앙대학교 신입생을 위한 가이드 북
+# CAU-Planet : 메타버스를 활용한 신입생 가이드 북
 [Presentation](https://drive.google.com/file/d/1s4Q6eSjMsn9czOSE_HFly1q1dXKv8GeC/view?usp=drive_link) | [Manual]()
 
 
