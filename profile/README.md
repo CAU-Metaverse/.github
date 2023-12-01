@@ -1,5 +1,5 @@
 # CAU-Planet : 중앙대학교 신입생을 위한 가이드 북
-[Presentation]() | [Manual]()
+[Presentation](https://drive.google.com/file/d/1s4Q6eSjMsn9czOSE_HFly1q1dXKv8GeC/view?usp=drive_link) | [Manual]()
 
 
 ## Our Team
