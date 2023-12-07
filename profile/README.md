@@ -4,10 +4,11 @@
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/c50f5d49-67a8-4a3f-9f21-dcee17361518"/>
 
 
-## Skill
-- client : Unity, React
-- server : Spring
-- etc :
+## Skills
+- client : Unity(WebGL), React
+- backend : Spring, Nginx
+- modelling : Blender
+- server : AWS EC2, AWS Route53
 
   
 ## Architecture
@@ -16,7 +17,7 @@
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/3649049c-5c44-4b34-bfe6-d11a0c520dbb"/>
 
 
-## Mannual
+## Manual
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/1977900c-9810-4c77-949a-77ed5df9c7e2"/>
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/1d93b0ee-f4de-43ac-916a-e8e4e5a9d2df"/>
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/98f57af2-4d79-44a5-89e7-dd6f69fa8fb8"/>
