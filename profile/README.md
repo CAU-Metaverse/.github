@@ -1,5 +1,5 @@
 # CAU-Planet : 메타버스를 활용한 신입생 가이드 북
-[Presentation](https://drive.google.com/file/d/1s4Q6eSjMsn9czOSE_HFly1q1dXKv8GeC/view?usp=drive_link) | [Manual](https://drive.google.com/file/d/1e5lGnDruWSlDDrQ_0go4_cm4apHidHuc/view?usp=sharing)
+[Presentation](https://drive.google.com/file/d/1s4Q6eSjMsn9czOSE_HFly1q1dXKv8GeC/view?usp=drive_link) | [Manual](https://drive.google.com/file/d/1e5lGnDruWSlDDrQ_0go4_cm4apHidHuc/view?usp=sharing) | [Final Report](https://drive.google.com/file/d/17k_EuMTDcom95pj57uGsMqWs9QVB0ThO/view?usp=sharing)
 
 <img width="100%" src="https://github.com/CAU-Metaverse/.github/assets/74192997/c50f5d49-67a8-4a3f-9f21-dcee17361518"/>
 
